@@ -1,0 +1,48 @@
+.container{
+	background-color: goldenrod;
+	width: 1400px;
+}
+.nav-1{
+	border-right: 1px solid goldenrod;
+}
+button{
+	border-radius: 10px;
+}
+.row .bg{
+	background-color: #895737;
+	color: white;
+	
+}
+.row .br{
+	border-radius: 10px;
+}
+.row .bg-1{
+	background-color: #ffb703;
+	color: white;
+}
+.row .bg-2{
+	background-color: #fb5607;
+	color: white;
+}
+.row .bg-3{
+	background-color: #3a86ff;
+	color: white;
+}
+.row .bg-4{
+	background-color: #8338ec;
+	color: white;
+}
+.row .bg-5{
+	background-color: #eaf4f4;
+}
+
+.row .bg-7{
+	background-color: #2dc658;
+	color: white;
+}
+@media (min-width: 992px){}
+	.col-costume {
+    flex: 0 0 auto;
+    width: 6%;
+}
+
